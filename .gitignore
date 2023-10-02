@@ -1,0 +1,4 @@
+# .gitignore
+
+# delord
+node_modules/

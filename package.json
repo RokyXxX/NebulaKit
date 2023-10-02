@@ -6,5 +6,8 @@
   "repository": "git+github.com/RokyXxX/NebulaKit.git",
   "author": "RokyBeast",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "typescript": "^5.2.2"
+  }
 }
