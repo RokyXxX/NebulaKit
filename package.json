@@ -1,12 +1,14 @@
 {
-  "name": "NebulaKit",
+  "name": "nebulakit",
   "version": "1.0.0",
-  "description": "---",
-  "main": "src/index.ts",
-  "repository": "git+github.com/RokyXxX/NebulaKit.git",
+  "description": "Utility-first, Re-usable Components & much more packed in a bag called \"NebulaKit\", the best CSS framework.",
+  "main": "ts/index.ts",
   "author": "RokyBeast",
   "license": "MIT",
-  "private": false,
+  "scripts": {
+    "build": "yarn xbuild",
+    "xbuild": "tsc"
+  },
   "dependencies": {
     "typescript": "^5.2.2"
   }

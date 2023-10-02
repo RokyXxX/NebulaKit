@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "target": "es2022", // a little bit old good.
+        "module": "CommonJS", // use cjs..
+        "allowJs": true, // aloow goofy javascript files into typescript
+        "outDir": "./dist/js", // set compiler's compiled files to output in this dir
+        "strict": true, // idk?
+        "esModuleInterop": true, // allow require('')
+        "skipLibCheck": true, // once again, idk
+        "forceConsistentCasingInFileNames": true // i got fear of long names :(
+    },
+    "include": [
+        "types/*.ts" // get all ts files woohoo
+    ],
+    "exclude": [
+        "node_modules" // all hail this folder.
+    ]
+}
