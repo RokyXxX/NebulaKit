@@ -1,0 +1,10 @@
+{
+  "name": "NebulaKit",
+  "version": "1.0.0",
+  "description": "---",
+  "main": "src/index.ts",
+  "repository": "git+github.com/RokyXxX/NebulaKit.git",
+  "author": "RokyBeast",
+  "license": "MIT",
+  "private": false
+}
