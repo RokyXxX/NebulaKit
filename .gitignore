@@ -3,4 +3,4 @@
 # delord
 node_modules/
 .configtest
-.template.ts
+#.template.ts
