@@ -2,6 +2,7 @@
 
 const startYear = new Date().getFullYear();
 const nextYear = new Date().getFullYear() + 1;
+const lastYear = new Date().getFullYear() - 1;
 let version = "1.0.0";
 
 const tsTemplate = `
