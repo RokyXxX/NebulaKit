@@ -1,4 +1,4 @@
-// TEMPLATE for any file.
+// TEMPLATE for NebulaKit files.
 
 const startYear = new Date().getFullYear();
 const nextYear = new Date().getFullYear() + 1;
