@@ -5,13 +5,13 @@ const dir = './scss/config/_config.scss';
 const fontFamily = "system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif";
 
 export interface NebulaKitConfig {
-    customScroll: boolean;
-    customSelection: boolean;
-    genRtlCSS: boolean;
-    customFontStyle: string;
+    customScroll: boolean,
+    customSelection: boolean,
+    genRtlCSS: boolean,
+    customFontStyle: string,
 }
 
-if (config.customFontStyle == ""){
+if (config.customFontStyle == "") {
     config.customFontStyle = fontFamily;
 }
 
