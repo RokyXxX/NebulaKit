@@ -10,7 +10,6 @@
     "xbuild": "tsc"
   },
   "dependencies": {
-    "fs": "^0.0.1-security",
     "typescript": "^5.2.2"
   },
   "devDependencies": {
